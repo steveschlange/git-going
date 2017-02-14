@@ -1,0 +1,3 @@
+While you're bound to occasionally add a few files to your project as you work, and especially more towards the beginning of a project, most of the time you're going to need to deal with mat particular change, now to do this, I've opened up the index.html file that's found in our get basics folder.
+Checnged it to plain text
+2/14
